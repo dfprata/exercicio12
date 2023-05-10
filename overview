@@ -1,0 +1,68 @@
+ 
+
+Exercício 12 : Modelagem de um aplicativo de Controle Financeiro Mobile 
+
+ 
+
+- Em duplas 
+
+- Entrega em 24/05 
+
+ 
+
+1- Requisitos; 
+
+2- Interface; 
+
+3- GCS / SCM 
+
+4- Métricas 
+
+5- SCRUM (PO; SM; Drv) 
+
+6- Teste 
+
+Requisitos Funcionais: 
+
+Saldos Contas Correntes e Cartões de Crédito; 
+
+Tracking de Cartão de Crédito e Despesas Gerais (comparação com média mensal e limite); 
+
+Alerta de movimentações; 
+
+Previsão de despesas; 
+
+Integração com Open Finance ou Pull de informações bancárias com segurança baseada em autorização prévia e token; 
+
+Formação de “fundo de reserva” para gastos / investimentos maiores; 
+
+Dicas financeiras. 
+
+Requisitos técnicos 
+
+Interface (10 Heurísticas de Nielsen): 
+
+1. Visibilidade de qual estado estamos no sistema 
+2. Correspondência entre o sistema e o mundo real 
+3. Liberdade de controle fácil pro usuário 
+4. Consistência e padrões 
+5. Prevenções de erros 
+6. Reconhecimento em vez de memorização 
+7. Flexibilidade e eficiência de uso 
+8. Estética e design minimalista 
+9. Ajude os usuários a reconhecerem, diagnosticarem e recuperarem-se de erros 
+10. Ajuda e documentação 
+ 
+
+Interface 
+
+(Ver requisitos técnicos )
+
+Tela de login – Opção “Manter logado”. 
+
+Tela inicial: Resumo das Contas Correntes e Cartões de Créditos. 
+
+
+ 
+
+ 
